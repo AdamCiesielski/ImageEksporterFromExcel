@@ -1,0 +1,2 @@
+C:\Users\a.grafik\source\repos\ImageEksporterFromExcel\ImageEksporterFromExcel\bin\Release\netcoreapp3.1\publish\ImageEksporterFromExcel.pdb
+C:\Users\a.grafik\source\repos\ImageEksporterFromExcel\ImageEksporterFromExcel\bin\Release\netcoreapp3.1\publish\ImageEksporterFromExcel.exe

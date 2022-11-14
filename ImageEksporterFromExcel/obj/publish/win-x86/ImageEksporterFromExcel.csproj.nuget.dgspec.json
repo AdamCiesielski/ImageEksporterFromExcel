@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj",
+        "projectName": "ImageEksporterFromExcel",
+        "projectPath": "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj",
+        "packagesPath": "C:\\Users\\a.grafik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.grafik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FreeSpire.XLS": {
+              "target": "Package",
+              "version": "[11.8.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.17, 3.1.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.17, 3.1.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.17, 3.1.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
