@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "EJkoitYC2AdRaW3e01Qg6Pf/sXzCBDD/V6IhtlAaTLfiQPHk7lS1FrOnDJaZ4C7liFXLgqRD8qx1yDjPH5Rxzg==",
+  "dgSpecHash": "LSQeX/yZenWJnZQL5qwB5p++XP6EE8+rSzKp2//Wb0zI6e+xEHaFzTYinOe8bn/ySP63uDYegmUOPvOYpooPpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.grafik\\source\\repos\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj",
+  "projectFilePath": "C:\\Users\\przed\\Documents\\GitHub\\ImageEksporterFromExcel\\ImageEksporterFromExcel\\ImageEksporterFromExcel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\a.grafik\\.nuget\\packages\\freespire.xls\\11.8.6\\freespire.xls.11.8.6.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
-    "C:\\Users\\a.grafik\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    "C:\\Users\\przed\\.nuget\\packages\\freespire.xls\\11.8.6\\freespire.xls.11.8.6.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\przed\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
